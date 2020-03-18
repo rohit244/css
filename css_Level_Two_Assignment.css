@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+}
+.art{
+  margin: auto;
+}
+td{
+  width: 100px;
+  height: 200px;
+  border: 2px solid white;
+}
+#First{
+  background-color: #033051;
+}
+#Second{
+  background-color: #00AAE5;
+}
+#Third{
+  background-color: #026994;
+}
+#Fourth{
+  background-color: #3388C8;
+}
+#Fifth{
+  background-color: #00416B;
+}
