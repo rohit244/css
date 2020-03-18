@@ -1,0 +1,30 @@
+h3{
+  color: rgba(255, 0, 0, 0.5);
+  text-decoration: inherit;
+}
+.firstdiv{
+  color: red;
+  text-decoration: underline;
+}
+.seconddiv{
+  color: green;
+  text-decoration: underline;
+}
+#singledout{
+  color: blue;
+  text-decoration: line-through;
+}
+h3 + ul{
+  border-width: 3 px;
+  border-color: orange;
+  border-style: double;
+}
+ li a{
+  color: purple;
+}
+li a[href="www.ndtv.com"]
+{
+  border-width:medium;
+  border-color: yellow;
+  border-style: dotted;
+}
