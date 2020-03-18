@@ -1,0 +1,14 @@
+/*here is a comment*/
+/* Like html It can Make Some satement a comment by using control+ forwardslash */
+h1{
+  color: red;
+}
+p{
+  color:#522ebf;
+}
+li{
+  color : rgb(204,31,74);
+}
+h4{
+  color: rgba(155,61,75,0.9);
+}
